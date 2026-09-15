@@ -1,0 +1,6 @@
+{
+  "name": "Wildlife & Motion Living Scanner",
+  "description": "AI-powered wildlife motion scanner and living object detector with real-time sensor telemetry, optical motion tracking, species identification, IUCN population datasets, and survival metrics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

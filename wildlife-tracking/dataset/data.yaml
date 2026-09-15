@@ -1,0 +1,51 @@
+# Wildlife Tracking 40-Species Dataset Definition
+# Classes are mapped 1-to-1 to database class_index (0 - 39)
+
+path: ../dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 40
+
+names:
+  0: Lion
+  1: Tiger
+  2: African Elephant
+  3: Leopard
+  4: Cheetah
+  5: Rhinoceros
+  6: Hippopotamus
+  7: Giraffe
+  8: Zebra
+  9: Gorilla
+  10: Brown Bear
+  11: Polar Bear
+  12: Gray Wolf
+  13: Red Fox
+  14: Jaguar
+  15: Snow Leopard
+  16: Giant Panda
+  17: Orangutan
+  18: Kangaroo
+  19: Koala
+  20: Moose
+  21: American Bison
+  22: Reindeer
+  23: Sea Otter
+  24: Sloth
+  25: Wild Boar
+  26: Nile Crocodile
+  27: American Alligator
+  28: Komodo Dragon
+  29: King Cobra
+  30: Bald Eagle
+  31: Golden Eagle
+  32: Great Horned Owl
+  33: Flamingo
+  34: Emperor Penguin
+  35: Macaw
+  36: Great White Shark
+  37: Blue Whale
+  38: Bottlenose Dolphin
+  39: Giant Pacific Octopus

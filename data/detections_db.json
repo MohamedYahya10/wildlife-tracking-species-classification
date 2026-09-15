@@ -1,0 +1,48 @@
+[
+  {
+    "id": "rec-tiger-001",
+    "timestamp": "2:47:08 PM",
+    "isoDate": "2026-09-15T14:47:08.574Z",
+    "speciesId": "tiger",
+    "commonName": "Royal Bengal Tiger",
+    "scientificName": "Panthera tigris tigris",
+    "livingCategory": "Warm-Blooded Endothermic Carnivora",
+    "modelPredictionAccuracy": 0.994,
+    "confidenceDisplay": "99.4%",
+    "movingVelocity": "4.8 m/s (Prowling Stride)",
+    "movingDirection": "East-North-East (Heading 068°)",
+    "pirDeltaEnergy": "88% Motion Spike",
+    "thermalReading": "38.4°C (Living Endotherm)",
+    "sensorStationId": "station-tiger-ranthambore",
+    "sensorStationName": "Sector 04 - Ranthambore Waterhole Trap",
+    "imageUrl": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1000&q=80",
+    "realDataset": {
+      "populationCount": "~5,574 in the wild globally (~3,682 in India)",
+      "populationCensusSource": "NTCA All India Tiger Estimation (2023) & IUCN Global Assessment",
+      "populationTrend": "Increasing in core reserves; fragmented regionally",
+      "iucnStatus": "Endangered (EN)",
+      "survivalRate": {
+        "cubFirstYear": "45% – 50% first-year survival",
+        "adultAnnual": "82% – 85% annual survival probability",
+        "wildLifespan": "10 – 15 years in wild",
+        "primaryMortalityCauses": [
+          "Territorial combat between males",
+          "Poaching and retaliatory poisoning",
+          "Habitat fragmentation and edge highway trauma"
+        ]
+      },
+      "habitat": {
+        "primaryBiomes": [
+          "Sundarbans Mangroves",
+          "Tropical Moist Deciduous",
+          "Alluvial Grasslands"
+        ],
+        "geographicRange": "India, Bangladesh, Nepal, Bhutan",
+        "territoryRequirement": "25 – 100 km² per adult",
+        "elevationRange": "Sea level to 3,000 m",
+        "gpsReference": "26.0173° N, 76.5026° E"
+      }
+    },
+    "scanMode": "Moving State Continuous Optical Scan"
+  }
+]

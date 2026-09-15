@@ -1,0 +1,15 @@
+# Wildlife Tracking and Species Classification Dependencies
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+pillow>=10.0.0
+numpy>=1.24.0
+pyyaml>=6.0.1
+pandas>=2.0.0
+torch>=2.0.0
+open-clip-torch>=2.20.0
+ultralytics>=8.0.0
+supervision>=0.18.0
+opencv-python-headless>=4.8.0
+mysql-connector-python>=8.0.33
